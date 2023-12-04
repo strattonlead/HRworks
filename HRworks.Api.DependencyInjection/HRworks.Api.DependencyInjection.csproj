@@ -15,9 +15,9 @@
 	  <PackageTags>HRworks, Api</PackageTags>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <Description>HRworks API client.</Description>
-	  <PackageProjectUrl>https://github.com/strattonlead/Personio</PackageProjectUrl>
+	  <PackageProjectUrl>https://github.com/strattonlead/HRworks</PackageProjectUrl>
 	  <PublishRepositoryUrl>true</PublishRepositoryUrl>
-	  <PrivateRepositoryUrl>https://github.com/strattonlead/Personio.git</PrivateRepositoryUrl>
+	  <PrivateRepositoryUrl>https://github.com/strattonlead/HRworks.git</PrivateRepositoryUrl>
 	  <PackageIcon>icon.png</PackageIcon>
 	  <RepositoryType>git</RepositoryType>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
